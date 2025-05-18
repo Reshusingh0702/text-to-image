@@ -60,6 +60,7 @@ Scale: 8.5
 ![shark](https://github.com/user-attachments/assets/cf3bb6c3-9bfc-48cc-9990-e464971006a3)
 
 Notes
+
  *If your system doesn't have a CUDA-compatible GPU, the script will default to CPU, which may be very slow.
 
 *First-time model loading may take 1–2 minutes as it downloads from Hugging Face.
@@ -72,6 +73,7 @@ This project is open-source under the MIT License.
 
 Author
 Made by Reshu Singh
+
 Feel free to contribute, report issues, or fork the repo!
 
 
