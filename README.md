@@ -27,6 +27,7 @@ text-to-image-sd/
 Ensure you have Python 3.8+ installed. 
  
 pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+
 pip install diffusers transformers accelerate scipy safetensors
 
 3.Usage
