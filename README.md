@@ -17,8 +17,11 @@ This project demonstrates how to generate high-quality images from text prompts 
 ## 📂 Project Structure
 
 text-to-image-sd/
+
 ├── text_to_image.py      # Main script
+
 ├── README.md             # Project documentation
+
 └── output.png            # (Generated image will appear here)
 
 ---
